@@ -13,6 +13,10 @@ Use it at your own risk.
 Changes, newer changes on top
 -----------------------------
 
+- Version 1.0.1
+
+  - Fixed the pagination layout in neighbour posts
+
 - Version 1.0.0
 
   - Based on pelican-bootstrap3-nero, upgraded to Bootstrap 4.5.0
