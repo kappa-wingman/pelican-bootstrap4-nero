@@ -7,7 +7,7 @@ My previous theme is called pelican-bootstrap3-nero. I created this theme so tha
 Use it at your own risk.
 
 ## Demo site
-[My blog: Kappa ICT Wingman](https://www.kappawingman.com)
+Currently I don't have a demo site for this theme. It is becaused I moved to a new theme: [pelican-kappa-nero](https://github.com/kappa-wingman/pelican-kappa-nero)
 
 ## Screenshot
 
